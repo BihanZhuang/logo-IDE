@@ -1,0 +1,36 @@
+#radio-button {
+    -fx-pref-height: 50;
+    -fx-pref-width: 200;
+    -fx-padding: 10;
+    -fx-spacing: 20;
+    -fx-alignment: center;
+}
+
+#big-container {
+    -fx-padding: 10;
+    -fx-spacing: 10;
+}
+
+#text-color {
+    -fx-padding: 5;
+    -fx-alignment: center;
+    -fx-spacing: 5;
+}
+
+#scroll-view {
+    -fx-text-alignment: center;
+    -fx-padding: 10;
+}
+
+#shape-legend {
+    -fx-fit-height: 30;
+    -fx-fit-width: 30;
+}
+
+#command-history {
+	-fx-spacing: 5;
+}
+
+#element {
+	-fx-spacing: 5;
+}
